@@ -26,25 +26,6 @@
     },
     "image_with_text_overlay_UCnqDB": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_4YQVaW": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_pzgEWM": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_4YQVaW",
-        "richtext_pzgEWM"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
