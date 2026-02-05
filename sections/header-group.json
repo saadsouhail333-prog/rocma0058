@@ -62,7 +62,7 @@
       "settings": {
         "enable_sticky": false,
         "autoplay": false,
-        "cycle_speed": 6,
+        "cycle_speed": 10,
         "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
