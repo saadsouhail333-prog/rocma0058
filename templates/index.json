@@ -41,6 +41,73 @@
         "overlay_opacity": 0
       }
     },
+    "logo_list_rJpWH4": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_CeKDTd": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/IMG_0088.jpg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_Ft9U3f": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/IMG_0089.jpg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_4TFAiY": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_YNXMAn": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/IMG_0086.jpg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_GMdUw3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/IMG_0087.jpg",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_CeKDTd",
+        "logo_Ft9U3f",
+        "logo_4TFAiY",
+        "logo_YNXMAn",
+        "logo_GMdUw3"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": false,
+        "title": "Vu sur :",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 4,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
@@ -116,6 +183,81 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "rich_text_7MemFk": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_GADDwR": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_WTbfcM": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi nous choisir",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_6t8DfT": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_GADDwR",
+        "heading_WTbfcM",
+        "richtext_6t8DfT"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_JyrPyE": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_xhh7br": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_BhxC4a": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_xhh7br",
+        "richtext_BhxC4a"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/CD0F2367-8079-4BA4-9B4B-D8104AD57A28.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 0
       }
     },
     "collection-list": {
@@ -714,7 +856,10 @@
   "order": [
     "slideshow",
     "image_with_text_overlay_UCnqDB",
+    "logo_list_rJpWH4",
     "image-link-blocks",
+    "rich_text_7MemFk",
+    "image_with_text_overlay_JyrPyE",
     "collection-list",
     "featured-collection",
     "impact-text",
