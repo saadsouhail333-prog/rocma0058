@@ -175,6 +175,19 @@
         "overlay_opacity": 0
       }
     },
+    "custom_liquid_kgf9BG": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media-grid": {
       "type": "media-grid",
       "blocks": {
@@ -605,6 +618,7 @@
     "logo_list_rJpWH4",
     "rich_text_7MemFk",
     "image_with_text_overlay_JyrPyE",
+    "custom_liquid_kgf9BG",
     "media-grid",
     "before-after-image",
     "press",
