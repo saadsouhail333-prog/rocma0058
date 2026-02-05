@@ -40,15 +40,23 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_dDneQU": {
+          "type": "message",
+          "settings": {
+            "text": "Paiement sécurisé",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Livraison offerte",
             "url": ""
           }
         }
       },
       "block_order": [
+        "message_dDneQU",
         "message"
       ],
       "settings": {
