@@ -62,10 +62,10 @@
       "settings": {
         "enable_sticky": false,
         "autoplay": false,
-        "cycle_speed": 10,
+        "cycle_speed": 8,
         "text_size": "text-base",
         "navigation_mode": "scrolling",
-        "scrolling_speed": 10,
+        "scrolling_speed": 20,
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#1a1a1a"
