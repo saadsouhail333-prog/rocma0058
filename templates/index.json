@@ -181,8 +181,9 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
+            "image": "shopify://shop_images/IMG_0120.jpg",
+            "title": "",
+            "heading_tag": "h1",
             "link_url": "",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
@@ -202,7 +203,8 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/IMG_0121.jpg",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -244,7 +246,7 @@
         "heading_UwNRwY": {
           "type": "heading",
           "settings": {
-            "text": "Video",
+            "text": "",
             "heading_tag": "h1"
           }
         }
