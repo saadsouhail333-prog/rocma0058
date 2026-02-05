@@ -60,13 +60,6 @@
             "link": ""
           }
         },
-        "logo_4TFAiY": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
         "logo_YNXMAn": {
           "type": "logo",
           "settings": {
@@ -87,7 +80,6 @@
       "block_order": [
         "logo_CeKDTd",
         "logo_Ft9U3f",
-        "logo_4TFAiY",
         "logo_YNXMAn",
         "logo_GMdUw3"
       ],
