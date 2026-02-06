@@ -308,7 +308,7 @@
           "type": "heading",
           "settings": {
             "text": "Résultats visibles en quelques heures.",
-            "heading_tag": "h5",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
