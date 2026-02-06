@@ -357,6 +357,7 @@
         "item_KLRWXT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/IMG_0131.jpg",
             "column_size": "2",
             "title": "Column title",
             "heading_tag": "h4",
@@ -369,6 +370,7 @@
         "item_rWYpXb": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/IMG_0134.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -379,6 +381,19 @@
           }
         },
         "item_MzFqdd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0144.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TEXeC9": {
           "type": "item",
           "settings": {
             "column_size": "3",
@@ -394,7 +409,8 @@
       "block_order": [
         "item_KLRWXT",
         "item_rWYpXb",
-        "item_MzFqdd"
+        "item_MzFqdd",
+        "item_TEXeC9"
       ],
       "name": "Multi-column",
       "settings": {
