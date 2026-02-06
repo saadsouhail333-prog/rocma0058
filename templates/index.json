@@ -301,24 +301,42 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_HxbWTd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FLL8dh": {
+          "type": "heading",
+          "settings": {
+            "text": "Résultats visibles en quelques heures.",
+            "heading_tag": "h5",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_FLL8dh"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "video_diTwyX": {
       "type": "video",
       "blocks": {
         "play_ti7KL3": {
           "type": "play",
           "settings": {}
-        },
-        "heading_UbWAwK": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
         }
       },
       "block_order": [
-        "play_ti7KL3",
-        "heading_UbWAwK"
+        "play_ti7KL3"
       ],
       "name": "Video",
       "settings": {
@@ -330,7 +348,7 @@
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "multi_column_yJzLak": {
@@ -722,6 +740,7 @@
     "rich_text_NccTxj",
     "media-grid",
     "video_nCJGWB",
+    "rich_text_HxbWTd",
     "video_diTwyX",
     "multi_column_yJzLak",
     "before-after-image",
