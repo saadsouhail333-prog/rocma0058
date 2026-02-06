@@ -441,68 +441,6 @@
         "text_color": ""
       }
     },
-    "before-after-image": {
-      "type": "before-after-image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "bottom",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
-    "press": {
-      "type": "press",
-      "blocks": {
-        "16644243327ba53d2a-0": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Share info about what your customers say about your products.",
-            "show_rating": false,
-            "rating": 4
-          }
-        },
-        "16644243327ba53d2a-1": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Or share content about your promotion, offers...",
-            "show_rating": false,
-            "rating": 4
-          }
-        }
-      },
-      "block_order": [
-        "16644243327ba53d2a-0",
-        "16644243327ba53d2a-1"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
     "hot-spots": {
       "type": "hot-spots",
       "blocks": {
@@ -568,47 +506,6 @@
         "hot_spot_content_text_color": "#000000",
         "hot_spot_content_opacity": 90,
         "hot_spot_content_blur_radius": 3
-      }
-    },
-    "multiple-images-with-text": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "1664424486a2b084ab-0": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "1664424486a2b084ab-1": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "1664424486a2b084ab-0",
-        "1664424486a2b084ab-1"
-      ],
-      "settings": {
-        "full_width": true,
-        "images_layout": "scattered",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
       }
     },
     "featured-product": {
@@ -774,10 +671,7 @@
     "rich_text_HxbWTd",
     "video_diTwyX",
     "multi_column_yJzLak",
-    "before-after-image",
-    "press",
     "hot-spots",
-    "multiple-images-with-text",
     "featured-product",
     "faq"
   ]
